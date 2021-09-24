@@ -1,0 +1,60 @@
+.bodyy{
+    background-color: white;
+  
+}
+.navv{
+    color:black;
+    padding: 50px 0;
+    min-width: 500px;
+}
+.navv ul{
+     background-color:green;
+     box-shadow: 0 0 10px red;
+     inset: 0 0 1px black;
+}
+.navv ul li{
+    display:inline-block;
+}
+
+.navv ul li a{
+    height: 5px;
+    padding: 30px;
+    color: black;
+    font-size: 20px;
+    font-family: serif;
+    text-decoration: blink;
+    display: block;
+    letter-spacing: 1px;
+    color: pink;
+}
+
+.navv ul li a:hover{
+    background-color: indigo;
+    transition: all ease 0.2s;
+}
+
+.bodyy h1{
+    
+     text-align: center;
+     color: indigo;
+     font-family: fantasy;
+     box-shadow: 0 0 10px black;
+}
+
+.boddy h1:hover{
+    background-color: red;
+    text-decoration: 10px 10px 10px black;
+}
+
+.form{
+    box-shadow: 0 0 10px pink;
+}
+
+div{
+    height: 150px;
+    width: 200px;
+    border: 1px solid black;
+    background: url("c35f64329700cdb37c69809f4fc524d2.jpg")no-repeat 50% 50%;
+    background-size: contain;
+}
+
